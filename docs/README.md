@@ -1,6 +1,6 @@
 # Roblox Executor Environment Stress Test Suite
 
-It is a comprehensive stress test script targeting the Roblox **Client** executor environment. It runs **410 tests** across **18 categories**, each designed to expose inconsistencies, proxy artifacts, hooked APIs, and emulation bugs in custom/executor environments.
+It is a comprehensive stress test script targeting the Roblox **Client** environment. It runs **410 tests** across **18 categories**, each designed to expose inconsistencies, proxy artifacts, hooked APIs, and emulation bugs in custom/executor environments.
 
 ## How It Works
 
